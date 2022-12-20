@@ -19,6 +19,7 @@ Talking about Personal Stuffs:
 📫   How to reach me: mouli14112000@gmail.com.
 
 My Absolute Favorites:
+
 💻   I love exploring new tech stack and building cool stuffs.
 
 📰   Reading & writing tech blogs whenever possible.
