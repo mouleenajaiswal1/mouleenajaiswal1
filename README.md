@@ -10,7 +10,7 @@ Specific fields of interest include Data Science, Machine learning, Cloud operat
 
 Talking about Personal Stuffs:
 
-🔭   I’m currently looking for job opportunities in Business analyst Domain
+🔭   I’m currently looking for job opportunities in Business analyst and Data Analyst Domain
 
 🌱   I have completed learning Full Stack Data Science
 
